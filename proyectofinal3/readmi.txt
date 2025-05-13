@@ -1,0 +1,11 @@
+# Proyecto Airbnb - Predicción de Precios  
+**Alumno:** nazareno leones
+**Resultados:** MAE=50.22 USD | R²=0.36  
+
+## Instrucciones  
+1. Ejecutar `ProyectoParteIII+Apellido.ipynb` en Jupyter.  
+2. Asegurarse de tener el archivo `AB_NYC_2019.csv` en la misma carpeta.  
+
+## Requisitos  
+- Python 3.8+  
+- Librerías: pandas, numpy, scikit-learn, matplotlib.  
